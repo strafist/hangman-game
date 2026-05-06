@@ -1,4 +1,4 @@
-# Hanging Game
+# hangman-game
 
 Small, local hangman game built with React + TypeScript + Vite based on the course project by Fernando Herrera progra-101.
 
